@@ -1,6 +1,6 @@
 ### Hosting link
 
-# https://namimorisu.github.io
+# https://htrauzer.github.io
 
 # Run
 You can run graphql project trough local port, go live or your browser.
